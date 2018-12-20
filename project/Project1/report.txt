@@ -1,0 +1,20 @@
+	Neural Network Project2
+
+by Olenburg Egor
+
+My main goal of this project was to teach my Network to predict the genre of a song!
+My part was to train my weights and then save them and sent them to another group that was supposed to implement it to Music visiulazer...
+
+Problems on my way:
+	-Had a hard time to get my input, figured it out finally!
+	-out project did not seem to work as we wanted it to work
+	-took me a chunk of time to understand how to combine Neural Network part with Parallel Prosessing
+
+This is combined version of project with PP.
+My input file are found in genres folder and are of .wav format sounds!
+Our prediction was verry poor, probably should have trand on much bigger size of input music...
+
+need to install:
+"fftw3" library
+
+follow makefile to run Learnin appart or with PP!
